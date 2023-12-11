@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"name": "FilbertBrit.github.io",
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "FilbertBrit.github.io",
+    "liveServer.settings.port": 5501
+  }
+}
